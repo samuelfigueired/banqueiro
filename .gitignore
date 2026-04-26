@@ -1,0 +1,16 @@
+# Ignore executáveis, objetos e pastas de build
+*.exe
+*.o
+*.obj
+*.dll
+*.log
+*.out
+*.a
+*.so
+*.zip
+*.tar
+*.gz
+*.7z
+*.bak
+*.tmp
+output/
