@@ -30,8 +30,10 @@ Passe 3 números inteiros (quantidade de cada recurso).
 output\banqueiro.exe 10 5 7
 ```
 
-## Autor
-Samuel Figueiredo
+
+## Autores
+- Samuel Figueiredo
+- Matheus Henrique
 
 ---
 Trabalho de Sistemas Operacionais
